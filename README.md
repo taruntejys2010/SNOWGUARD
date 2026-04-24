@@ -98,4 +98,4 @@ ALTER TASK TASK_ALERT_EMAIL SUSPEND;
 
 ## Author
 
-**DNASURE** | Built with Snowflake
+*Prasad* | Built with Snowflake
